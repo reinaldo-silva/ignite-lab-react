@@ -1,0 +1,3 @@
+# Coisas Para estudar
+
+- tailwind
